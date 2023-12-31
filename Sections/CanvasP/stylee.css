@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    gap:10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#v1{
+    border: 1px solid black;
+    width: 338px;
+    height: 600px;
+}
+#c1{
+    border:1px solid black;
+    
+}
+#c2{
+    border: 1px solid black;
+}
+#v3{
+    /* visibility: hidden;
+    width: 0;
+    height: 0; */
+}
+#myimg{
+    /* display: none; */
+}
